@@ -1,0 +1,6 @@
+$baseWidth: 375;
+$headerHeight: 48px;
+$footerHeight: 54px;
+@function pxToRem($n) {
+    @return ($n / ($baseWidth / 10)) *1rem;
+}

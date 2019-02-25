@@ -1,0 +1,20 @@
+{
+  "banner": [
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7",
+      "id": "1001"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/568b07688b343f667c7040a968f3ee97.jpg?bg=FFFFFF",
+      "id": "1002"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4ee66087b538923642701afa069f0fb9.jpg?bg=41424E",
+      "id": "1003"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e0f474b9d70fea836f25c50e93d46af7.jpg?bg=3E404B",
+      "id": "1004"
+    }
+  ]
+}

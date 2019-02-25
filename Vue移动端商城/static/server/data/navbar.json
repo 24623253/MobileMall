@@ -1,0 +1,84 @@
+{
+  "list": [
+    {
+      "id": "wrap1",
+      "name": "新品",
+      "isActive": false
+    },
+    {
+      "id": "wrap2",
+      "name": "手机",
+      "isActive": false
+    },
+    {
+      "id": "wrap3",
+      "name": "电视",
+      "isActive": false
+    },
+    {
+      "id": "wrap4",
+      "name": "电脑",
+      "isActive": false
+    },
+    {
+      "id": "wrap5",
+      "name": "家电",
+      "isActive": false
+    },
+    {
+      "id": "wrap6",
+      "name": "路由",
+      "isActive": false
+    },
+    {
+      "id": "wrap7",
+      "name": "智能",
+      "isActive": false
+    },
+    {
+      "id": "wrap8",
+      "name": "儿童",
+      "isActive": false
+    },
+    {
+      "id": "wrap9",
+      "name": "电源",
+      "isActive": false
+    },
+    {
+      "id": "wrap10",
+      "name": "耳机",
+      "isActive": false
+    },
+    {
+      "id": "wrap11",
+      "name": "音箱",
+      "isActive": false
+    },
+    {
+      "id": "wrap12",
+      "name": "礼品",
+      "isActive": false
+    },
+    {
+      "id": "wrap13",
+      "name": "生活",
+      "isActive": false
+    },
+    {
+      "id": "wrap14",
+      "name": "服务",
+      "isActive": false
+    },
+    {
+      "id": "wrap15",
+      "name": "米粉卡",
+      "isActive": false
+    },
+    {
+      "id": "wrap16",
+      "name": "零售店",
+      "isActive": false
+    }
+  ]
+}
